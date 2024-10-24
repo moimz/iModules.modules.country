@@ -1,10 +1,5 @@
 {
     "countries": {
-        "KR": {
-            "name": "대한민국",
-            "code": "KOR",
-            "language": "ko",
-            "ccc": "+82"
-        }
+        "KR": "대한민국"
     }
 }
