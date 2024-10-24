@@ -1,0 +1,21 @@
+{
+    "id": "tools.moimz.imodules.modules.country",
+    "icon": "xi xi-globus",
+    "title": {
+        "ko": "국가"
+    },
+    "version": "4.0.0",
+    "description": {
+        "ko": "국가별 정보 및 포맷을 관리하기 위한 모듈입니다."
+    },
+    "author": {
+        "name": "Arzz",
+        "email": "arzz@arzz.com"
+    },
+    "homepage": "https://www.imodules.io",
+    "versionChecker": "https://api.moimz.com/download/latest",
+    "dependencies": {
+        "core": "4.0.0"
+    },
+    "language": "ko"
+}
