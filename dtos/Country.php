@@ -7,7 +7,7 @@
  * @file /modules/country/dtos/Country.php
  * @author Arzz <arzz@arzz.com>
  * @license MIT License
- * @modified 2024. 10. 24.
+ * @modified 2024. 10. 28.
  */
 namespace modules\country\dtos;
 class Country
@@ -36,6 +36,16 @@ class Country
     {
         $this->_code = $code;
         $this->_calling_code = $country->calling_code ?? null;
+    }
+
+    /**
+     * 국가코드를 가져온다.
+     *
+     * @return string $code
+     */
+    public function getCode(): string
+    {
+        return $this->_code;
     }
 
     /**
