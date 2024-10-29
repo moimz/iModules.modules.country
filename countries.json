@@ -1,7 +1,982 @@
 {
+    "AD": {
+        "code": "AND",
+        "language": "ca",
+        "calling_code": "+376"
+    },
+    "AE": {
+        "code": "ARE",
+        "language": "ar",
+        "calling_code": "+971"
+    },
+    "AF": {
+        "code": "AFG",
+        "language": "ps",
+        "calling_code": "+93"
+    },
+    "AG": {
+        "code": "ATG",
+        "language": "en",
+        "calling_code": "+1 268"
+    },
+    "AL": {
+        "code": "ALB",
+        "language": "sq",
+        "calling_code": "+355"
+    },
+    "AM": {
+        "code": "ARM",
+        "language": "hy",
+        "calling_code": "+374"
+    },
+    "AO": {
+        "code": "AGO",
+        "language": "pt",
+        "calling_code": "+244"
+    },
+    "AQ": {
+        "code": "ATA",
+        "language": "en",
+        "calling_code": "+672"
+    },
+    "AR": {
+        "code": "ARG",
+        "language": "es",
+        "calling_code": "+54"
+    },
+    "AT": {
+        "code": "AUT",
+        "language": "de",
+        "calling_code": "+43"
+    },
+    "AU": {
+        "code": "AUS",
+        "language": "en",
+        "calling_code": "+61"
+    },
+    "AZ": {
+        "code": "AZE",
+        "language": "az",
+        "calling_code": "+994"
+    },
+    "BA": {
+        "code": "BIH",
+        "language": ["bs", "hr", "sr"],
+        "calling_code": "+387"
+    },
+    "BB": {
+        "code": "BRB",
+        "language": "en",
+        "calling_code": "+1 246"
+    },
+    "BD": {
+        "code": "BGD",
+        "language": "bn",
+        "calling_code": "+880"
+    },
+    "BE": {
+        "code": "BEL",
+        "language": ["nl", "fr", "de"],
+        "calling_code": "+32"
+    },
+    "BF": {
+        "code": "BFA",
+        "language": "fr",
+        "calling_code": "+226"
+    },
+    "BG": {
+        "code": "BGR",
+        "language": "bg",
+        "calling_code": "+359"
+    },
+    "BH": {
+        "code": "BHR",
+        "language": "ar",
+        "calling_code": "+973"
+    },
+    "BI": {
+        "code": "BDI",
+        "language": "fr",
+        "calling_code": "+257"
+    },
+    "BJ": {
+        "code": "BEN",
+        "language": "fr",
+        "calling_code": "+229"
+    },
+    "BL": {
+        "code": "BLM",
+        "language": "fr",
+        "calling_code": "+590"
+    },
+    "BM": {
+        "code": "BMU",
+        "language": "en",
+        "calling_code": "+1 441"
+    },
+    "BN": {
+        "code": "BRN",
+        "language": "ms",
+        "calling_code": "+673"
+    },
+    "BO": {
+        "code": "BOL",
+        "language": "es",
+        "calling_code": "+591"
+    },
+    "BR": {
+        "code": "BRA",
+        "language": "pt",
+        "calling_code": "+55"
+    },
+    "BS": {
+        "code": "BHS",
+        "language": "en",
+        "calling_code": "+1 242"
+    },
+    "BT": {
+        "code": "BTN",
+        "language": "dz",
+        "calling_code": "+975"
+    },
+    "BW": {
+        "code": "BWA",
+        "language": "en",
+        "calling_code": "+267"
+    },
+    "BY": {
+        "code": "BLR",
+        "language": "be",
+        "calling_code": "+375"
+    },
+    "BZ": {
+        "code": "BLZ",
+        "language": "en",
+        "calling_code": "+501"
+    },
+    "CA": {
+        "code": "CAN",
+        "language": ["en", "fr"],
+        "calling_code": "+1"
+    },
+    "CD": {
+        "code": "COD",
+        "language": "fr",
+        "calling_code": "+243"
+    },
+    "CF": {
+        "code": "CAF",
+        "language": "fr",
+        "calling_code": "+236"
+    },
+    "CG": {
+        "code": "COG",
+        "language": "fr",
+        "calling_code": "+242"
+    },
+    "CH": {
+        "code": "CHE",
+        "language": ["de", "fr", "it", "rm"],
+        "calling_code": "+41"
+    },
+    "CI": {
+        "code": "CIV",
+        "language": "fr",
+        "calling_code": "+225"
+    },
+    "CL": {
+        "code": "CHL",
+        "language": "es",
+        "calling_code": "+56"
+    },
+    "CM": {
+        "code": "CMR",
+        "language": ["fr", "en"],
+        "calling_code": "+237"
+    },
+    "CN": {
+        "code": "CHN",
+        "language": "zh",
+        "calling_code": "+86"
+    },
+    "CO": {
+        "code": "COL",
+        "language": "es",
+        "calling_code": "+57"
+    },
+    "CR": {
+        "code": "CRI",
+        "language": "es",
+        "calling_code": "+506"
+    },
+    "CU": {
+        "code": "CUB",
+        "language": "es",
+        "calling_code": "+53"
+    },
+    "CV": {
+        "code": "CPV",
+        "language": "pt",
+        "calling_code": "+238"
+    },
+    "CY": {
+        "code": "CYP",
+        "language": ["el", "tr"],
+        "calling_code": "+357"
+    },
+    "CZ": {
+        "code": "CZE",
+        "language": "cs",
+        "calling_code": "+420"
+    },
+    "DE": {
+        "code": "DEU",
+        "language": "de",
+        "calling_code": "+49"
+    },
+    "DJ": {
+        "code": "DJI",
+        "language": ["fr", "ar"],
+        "calling_code": "+253"
+    },
+    "DK": {
+        "code": "DNK",
+        "language": "da",
+        "calling_code": "+45"
+    },
+    "DM": {
+        "code": "DMA",
+        "language": "en",
+        "calling_code": "+1 767"
+    },
+    "DO": {
+        "code": "DOM",
+        "language": "es",
+        "calling_code": "+1 809"
+    },
+    "DZ": {
+        "code": "DZA",
+        "language": ["ar", "fr"],
+        "calling_code": "+213"
+    },
+    "EC": {
+        "code": "ECU",
+        "language": "es",
+        "calling_code": "+593"
+    },
+    "EE": {
+        "code": "EST",
+        "language": "et",
+        "calling_code": "+372"
+    },
+    "EG": {
+        "code": "EGY",
+        "language": "ar",
+        "calling_code": "+20"
+    },
+    "ER": {
+        "code": "ERI",
+        "language": "ti",
+        "calling_code": "+291"
+    },
+    "ES": {
+        "code": "ESP",
+        "language": "es",
+        "calling_code": "+34"
+    },
+    "ET": {
+        "code": "ETH",
+        "language": "am",
+        "calling_code": "+251"
+    },
+    "FI": {
+        "code": "FIN",
+        "language": "fi",
+        "calling_code": "+358"
+    },
+    "FJ": {
+        "code": "FJI",
+        "language": "en",
+        "calling_code": "+679"
+    },
+    "FR": {
+        "code": "FRA",
+        "language": "fr",
+        "calling_code": "+33"
+    },
+    "GA": {
+        "code": "GAB",
+        "language": "fr",
+        "calling_code": "+241"
+    },
+    "GB": {
+        "code": "GBR",
+        "language": ["en", "cy", "gd"],
+        "calling_code": "+44"
+    },
+    "GD": {
+        "code": "GRD",
+        "language": "en",
+        "calling_code": "+1 473"
+    },
+    "GE": {
+        "code": "GEO",
+        "language": "ka",
+        "calling_code": "+995"
+    },
+    "GH": {
+        "code": "GHA",
+        "language": "en",
+        "calling_code": "+233"
+    },
+    "GM": {
+        "code": "GMB",
+        "language": "en",
+        "calling_code": "+220"
+    },
+    "GN": {
+        "code": "GIN",
+        "language": "fr",
+        "calling_code": "+224"
+    },
+    "GQ": {
+        "code": "GNQ",
+        "language": ["es", "fr"],
+        "calling_code": "+240"
+    },
+    "GR": {
+        "code": "GRC",
+        "language": "el",
+        "calling_code": "+30"
+    },
+    "GT": {
+        "code": "GTM",
+        "language": "es",
+        "calling_code": "+502"
+    },
+    "GW": {
+        "code": "GNB",
+        "language": "pt",
+        "calling_code": "+245"
+    },
+    "GY": {
+        "code": "GUY",
+        "language": "en",
+        "calling_code": "+592"
+    },
+    "HN": {
+        "code": "HND",
+        "language": "es",
+        "calling_code": "+504"
+    },
+    "HR": {
+        "code": "HRV",
+        "language": "hr",
+        "calling_code": "+385"
+    },
+    "HT": {
+        "code": "HTI",
+        "language": ["fr", "ht"],
+        "calling_code": "+509"
+    },
+    "HU": {
+        "code": "HUN",
+        "language": "hu",
+        "calling_code": "+36"
+    },
+    "ID": {
+        "code": "IDN",
+        "language": "id",
+        "calling_code": "+62"
+    },
+    "IE": {
+        "code": "IRL",
+        "language": ["en", "ga"],
+        "calling_code": "+353"
+    },
+    "IL": {
+        "code": "ISR",
+        "language": ["he", "ar"],
+        "calling_code": "+972"
+    },
+    "IN": {
+        "code": "IND",
+        "language": ["hi", "en"],
+        "calling_code": "+91"
+    },
+    "IQ": {
+        "code": "IRQ",
+        "language": "ar",
+        "calling_code": "+964"
+    },
+    "IR": {
+        "code": "IRN",
+        "language": "fa",
+        "calling_code": "+98"
+    },
+    "IS": {
+        "code": "ISL",
+        "language": "is",
+        "calling_code": "+354"
+    },
+    "IT": {
+        "code": "ITA",
+        "language": "it",
+        "calling_code": "+39"
+    },
+    "JM": {
+        "code": "JAM",
+        "language": "en",
+        "calling_code": "+1 876"
+    },
+    "JO": {
+        "code": "JOR",
+        "language": "ar",
+        "calling_code": "+962"
+    },
+    "JP": {
+        "code": "JPN",
+        "language": "ja",
+        "calling_code": "+81"
+    },
+    "KE": {
+        "code": "KEN",
+        "language": ["sw", "en"],
+        "calling_code": "+254"
+    },
+    "KG": {
+        "code": "KGZ",
+        "language": "ky",
+        "calling_code": "+996"
+    },
+    "KH": {
+        "code": "KHM",
+        "language": "km",
+        "calling_code": "+855"
+    },
+    "KI": {
+        "code": "KIR",
+        "language": "en",
+        "calling_code": "+686"
+    },
+    "KM": {
+        "code": "COM",
+        "language": ["ar", "fr"],
+        "calling_code": "+269"
+    },
+    "KN": {
+        "code": "KNA",
+        "language": "en",
+        "calling_code": "+1 869"
+    },
+    "KP": {
+        "code": "PRK",
+        "language": "ko",
+        "calling_code": "+850"
+    },
     "KR": {
         "code": "KOR",
         "language": "ko",
         "calling_code": "+82"
+    },
+    "KW": {
+        "code": "KWT",
+        "language": "ar",
+        "calling_code": "+965"
+    },
+    "KZ": {
+        "code": "KAZ",
+        "language": ["kk", "ru"],
+        "calling_code": "+7"
+    },
+    "LA": {
+        "code": "LAO",
+        "language": "lo",
+        "calling_code": "+856"
+    },
+    "LB": {
+        "code": "LBN",
+        "language": "ar",
+        "calling_code": "+961"
+    },
+    "LC": {
+        "code": "LCA",
+        "language": "en",
+        "calling_code": "+1 758"
+    },
+    "LI": {
+        "code": "LIE",
+        "language": "de",
+        "calling_code": "+423"
+    },
+    "LK": {
+        "code": "LKA",
+        "language": ["si", "ta"],
+        "calling_code": "+94"
+    },
+    "LR": {
+        "code": "LBR",
+        "language": "en",
+        "calling_code": "+231"
+    },
+    "LS": {
+        "code": "LSO",
+        "language": ["en", "st"],
+        "calling_code": "+266"
+    },
+    "LT": {
+        "code": "LTU",
+        "language": "lt",
+        "calling_code": "+370"
+    },
+    "LU": {
+        "code": "LUX",
+        "language": ["fr", "de", "lb"],
+        "calling_code": "+352"
+    },
+    "LV": {
+        "code": "LVA",
+        "language": "lv",
+        "calling_code": "+371"
+    },
+    "LY": {
+        "code": "LBY",
+        "language": "ar",
+        "calling_code": "+218"
+    },
+    "MA": {
+        "code": "MAR",
+        "language": "ar",
+        "calling_code": "+212"
+    },
+    "MC": {
+        "code": "MCO",
+        "language": "fr",
+        "calling_code": "+377"
+    },
+    "MD": {
+        "code": "MDA",
+        "language": "ro",
+        "calling_code": "+373"
+    },
+    "ME": {
+        "code": "MNE",
+        "language": "sr",
+        "calling_code": "+382"
+    },
+    "MG": {
+        "code": "MDG",
+        "language": ["mg", "fr"],
+        "calling_code": "+261"
+    },
+    "MH": {
+        "code": "MHL",
+        "language": "en",
+        "calling_code": "+692"
+    },
+    "MK": {
+        "code": "MKD",
+        "language": "mk",
+        "calling_code": "+389"
+    },
+    "ML": {
+        "code": "MLI",
+        "language": "fr",
+        "calling_code": "+223"
+    },
+    "MM": {
+        "code": "MMR",
+        "language": "my",
+        "calling_code": "+95"
+    },
+    "MN": {
+        "code": "MNG",
+        "language": "mn",
+        "calling_code": "+976"
+    },
+    "MR": {
+        "code": "MRT",
+        "language": "ar",
+        "calling_code": "+222"
+    },
+    "MT": {
+        "code": "MLT",
+        "language": ["mt", "en"],
+        "calling_code": "+356"
+    },
+    "MU": {
+        "code": "MUS",
+        "language": ["en", "fr"],
+        "calling_code": "+230"
+    },
+    "MV": {
+        "code": "MDV",
+        "language": "dv",
+        "calling_code": "+960"
+    },
+    "MW": {
+        "code": "MWI",
+        "language": "en",
+        "calling_code": "+265"
+    },
+    "MX": {
+        "code": "MEX",
+        "language": "es",
+        "calling_code": "+52"
+    },
+    "MY": {
+        "code": "MYS",
+        "language": "ms",
+        "calling_code": "+60"
+    },
+    "MZ": {
+        "code": "MOZ",
+        "language": "pt",
+        "calling_code": "+258"
+    },
+    "NA": {
+        "code": "NAM",
+        "language": ["en", "af"],
+        "calling_code": "+264"
+    },
+    "NE": {
+        "code": "NER",
+        "language": "fr",
+        "calling_code": "+227"
+    },
+    "NG": {
+        "code": "NGA",
+        "language": "en",
+        "calling_code": "+234"
+    },
+    "NI": {
+        "code": "NIC",
+        "language": "es",
+        "calling_code": "+505"
+    },
+    "NL": {
+        "code": "NLD",
+        "language": "nl",
+        "calling_code": "+31"
+    },
+    "NO": {
+        "code": "NOR",
+        "language": "no",
+        "calling_code": "+47"
+    },
+    "NP": {
+        "code": "NPL",
+        "language": "ne",
+        "calling_code": "+977"
+    },
+    "NR": {
+        "code": "NRU",
+        "language": "na",
+        "calling_code": "+674"
+    },
+    "NZ": {
+        "code": "NZL",
+        "language": "en",
+        "calling_code": "+64"
+    },
+    "OM": {
+        "code": "OMN",
+        "language": "ar",
+        "calling_code": "+968"
+    },
+    "PA": {
+        "code": "PAN",
+        "language": "es",
+        "calling_code": "+507"
+    },
+    "PE": {
+        "code": "PER",
+        "language": "es",
+        "calling_code": "+51"
+    },
+    "PG": {
+        "code": "PNG",
+        "language": ["en", "ho", "tpi"],
+        "calling_code": "+675"
+    },
+    "PH": {
+        "code": "PHL",
+        "language": "tl",
+        "calling_code": "+63"
+    },
+    "PK": {
+        "code": "PAK",
+        "language": ["ur", "en"],
+        "calling_code": "+92"
+    },
+    "PL": {
+        "code": "POL",
+        "language": "pl",
+        "calling_code": "+48"
+    },
+    "PT": {
+        "code": "PRT",
+        "language": "pt",
+        "calling_code": "+351"
+    },
+    "PW": {
+        "code": "PLW",
+        "language": "en",
+        "calling_code": "+680"
+    },
+    "PY": {
+        "code": "PRY",
+        "language": ["es", "gn"],
+        "calling_code": "+595"
+    },
+    "QA": {
+        "code": "QAT",
+        "language": "ar",
+        "calling_code": "+974"
+    },
+    "RO": {
+        "code": "ROU",
+        "language": "ro",
+        "calling_code": "+40"
+    },
+    "RS": {
+        "code": "SRB",
+        "language": "sr",
+        "calling_code": "+381"
+    },
+    "RU": {
+        "code": "RUS",
+        "language": "ru",
+        "calling_code": "+7"
+    },
+    "RW": {
+        "code": "RWA",
+        "language": "rw",
+        "calling_code": "+250"
+    },
+    "SA": {
+        "code": "SAU",
+        "language": "ar",
+        "calling_code": "+966"
+    },
+    "SB": {
+        "code": "SLB",
+        "language": "en",
+        "calling_code": "+677"
+    },
+    "SC": {
+        "code": "SYC",
+        "language": "fr",
+        "calling_code": "+248"
+    },
+    "SD": {
+        "code": "SDN",
+        "language": "ar",
+        "calling_code": "+249"
+    },
+    "SE": {
+        "code": "SWE",
+        "language": "sv",
+        "calling_code": "+46"
+    },
+    "SG": {
+        "code": "SGP",
+        "language": "en",
+        "calling_code": "+65"
+    },
+    "SI": {
+        "code": "SVN",
+        "language": "sl",
+        "calling_code": "+386"
+    },
+    "SK": {
+        "code": "SVK",
+        "language": "sk",
+        "calling_code": "+421"
+    },
+    "SL": {
+        "code": "SLE",
+        "language": "en",
+        "calling_code": "+232"
+    },
+    "SM": {
+        "code": "SMR",
+        "language": "it",
+        "calling_code": "+378"
+    },
+    "SN": {
+        "code": "SEN",
+        "language": "fr",
+        "calling_code": "+221"
+    },
+    "SO": {
+        "code": "SOM",
+        "language": "so",
+        "calling_code": "+252"
+    },
+    "SR": {
+        "code": "SUR",
+        "language": "nl",
+        "calling_code": "+597"
+    },
+    "SS": {
+        "code": "SSD",
+        "language": "en",
+        "calling_code": "+211"
+    },
+    "ST": {
+        "code": "STP",
+        "language": "pt",
+        "calling_code": "+239"
+    },
+    "SV": {
+        "code": "SLV",
+        "language": "es",
+        "calling_code": "+503"
+    },
+    "SY": {
+        "code": "SYR",
+        "language": "ar",
+        "calling_code": "+963"
+    },
+    "SZ": {
+        "code": "SWZ",
+        "language": "en",
+        "calling_code": "+268"
+    },
+    "TD": {
+        "code": "TCD",
+        "language": "fr",
+        "calling_code": "+235"
+    },
+    "TG": {
+        "code": "TGO",
+        "language": "fr",
+        "calling_code": "+228"
+    },
+    "TH": {
+        "code": "THA",
+        "language": "th",
+        "calling_code": "+66"
+    },
+    "TJ": {
+        "code": "TJK",
+        "language": "tg",
+        "calling_code": "+992"
+    },
+    "TL": {
+        "code": "TLS",
+        "language": "pt",
+        "calling_code": "+670"
+    },
+    "TM": {
+        "code": "TKM",
+        "language": "tk",
+        "calling_code": "+993"
+    },
+    "TN": {
+        "code": "TUN",
+        "language": "ar",
+        "calling_code": "+216"
+    },
+    "TO": {
+        "code": "TON",
+        "language": "en",
+        "calling_code": "+676"
+    },
+    "TR": {
+        "code": "TUR",
+        "language": "tr",
+        "calling_code": "+90"
+    },
+    "TT": {
+        "code": "TTO",
+        "language": "en",
+        "calling_code": "+1 868"
+    },
+    "TV": {
+        "code": "TUV",
+        "language": "en",
+        "calling_code": "+688"
+    },
+    "TZ": {
+        "code": "TZA",
+        "language": ["sw", "en"],
+        "calling_code": "+255"
+    },
+    "UA": {
+        "code": "UKR",
+        "language": "uk",
+        "calling_code": "+380"
+    },
+    "UG": {
+        "code": "UGA",
+        "language": "en",
+        "calling_code": "+256"
+    },
+    "US": {
+        "code": "USA",
+        "language": "en",
+        "calling_code": "+1"
+    },
+    "UY": {
+        "code": "URY",
+        "language": "es",
+        "calling_code": "+598"
+    },
+    "UZ": {
+        "code": "UZB",
+        "language": "uz",
+        "calling_code": "+998"
+    },
+    "VA": {
+        "code": "VAT",
+        "language": "it",
+        "calling_code": "+39"
+    },
+    "VC": {
+        "code": "VCT",
+        "language": "en",
+        "calling_code": "+1 784"
+    },
+    "VE": {
+        "code": "VEN",
+        "language": "es",
+        "calling_code": "+58"
+    },
+    "VN": {
+        "code": "VNM",
+        "language": "vi",
+        "calling_code": "+84"
+    },
+    "VU": {
+        "code": "VUT",
+        "language": "bi",
+        "calling_code": "+678"
+    },
+    "WS": {
+        "code": "WSM",
+        "language": "sm",
+        "calling_code": "+685"
+    },
+    "YE": {
+        "code": "YEM",
+        "language": "ar",
+        "calling_code": "+967"
+    },
+    "ZA": {
+        "code": "ZAF",
+        "language": ["en", "af", "zu", "xh"],
+        "calling_code": "+27"
+    },
+    "ZM": {
+        "code": "ZMB",
+        "language": "en",
+        "calling_code": "+260"
+    },
+    "ZW": {
+        "code": "ZWE",
+        "language": ["en", "sn", "nd"],
+        "calling_code": "+263"
     }
 }
